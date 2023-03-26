@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewEmployeeId"
+        style="@style/WeightedCenteredLargeText"
+        tools:text="143" />
+
+    <View style="@style/VerticalDividerStyle" />
+
+
+    <TextView
+        android:id="@+id/textViewEmployeeIdMatching"
+        style="@style/WeightedCenteredLargeText"
+        tools:text="148" />
+
+    <View style="@style/VerticalDividerStyle" />
+
+
+    <TextView
+        android:id="@+id/textViewProjectId"
+        style="@style/WeightedCenteredLargeText"
+        tools:text="369" />
+
+    <View style="@style/VerticalDividerStyle" />
+
+    <TextView
+        android:id="@+id/textViewProjectDuration"
+        style="@style/WeightedCenteredLargeText"
+        tools:text="10" />
+
+</LinearLayout>
