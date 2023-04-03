@@ -1,2 +1,2 @@
-# Pavel-Petrov-employees
- Application that identifies the pair of employees who have worked together on common projects for the longest period of time.
+# Pure Kotlin CSV file read
+ Read a CSV file in pure Kotlin and identify pairs of employees who have worked together on common project.
